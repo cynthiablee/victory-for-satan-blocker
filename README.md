@@ -17,6 +17,9 @@ To manually install from this GitHub repo, follow these steps:
 6. Choose the folder that the unzipped/extracted files are in (probably called "victory-for-satan-blocker").
 7. The extension should now appear and the "Enabled" box should be checked. Start browsing religious news websites, free of victories for Satan!
 
+EXAMPLE:
+Here's a screenshot for y'all:
+![image](https://user-images.githubusercontent.com/22127496/46706014-24cb7e80-cbe7-11e8-9b5c-e0c37a5d7f39.png)
 
 Special thanks:
 
