@@ -1,5 +1,5 @@
 WHAT: 
-This is a Chrome browser extension that can help readers avoid encountering the word "Mormon" in their web browser, following [the announcement](https://www.sltrib.com/religion/2018/10/07/members-offend-jesus/) by the President of the Church of Jesus Christ of Latter-day Saints that use of the common nickname for the church and its people "was a major victory for Satan."
+This is a Chrome browser extension that can help readers avoid encountering the word "Mormon" in their web browser, following [the announcement](https://www.sltrib.com/religion/2018/10/07/members-offend-jesus/) by the President of the Church of Jesus Christ of Latter-day Saints that any use of the common nickname for the church and its people was "a major victory for Satan."
 
 WHY:
 For fun.
